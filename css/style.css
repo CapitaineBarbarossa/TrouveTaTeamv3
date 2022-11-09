@@ -17,7 +17,7 @@ main{
   flex-direction: column;
   justify-content: center;
   background: rgb(73,138,196);
-  background: linear-gradient(0deg, rgba(73,138,196,0.8) 0%, rgba(49,129,200,0.8) 50%, rgba(0,0,0,0.8995973389355743) 100%), url(ressources/background2.jpg);
+  background: linear-gradient(0deg, rgba(73,138,196,0.8) 0%, rgba(49,129,200,0.8) 50%, rgba(0,0,0,0.8995973389355743) 100%), url(../ressources/background2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -28,7 +28,7 @@ nav {
   display: flex !important;
   flex-direction: row;
   align-items: center;
-  background: linear-gradient(0deg, rgba(73,138,196,0.8) 0%, rgba(49,129,200,0.8) 50%, rgba(0,0,0,0.8995973389355743) 100%), url(ressources/background.jpg);
+  background: linear-gradient(0deg, rgba(73,138,196,0.8) 0%, rgba(49,129,200,0.8) 50%, rgba(0,0,0,0.8995973389355743) 100%), url(../ressources/background.jpg);
   box-shadow: inset 0px -1px 0px #c5c5c6;
   z-index: 1;
 }
